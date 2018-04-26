@@ -1,0 +1,7 @@
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\bin\Debug\7- condicionais.exe.config
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\bin\Debug\7- condicionais.exe
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\bin\Debug\7- condicionais.pdb
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\obj\Debug\7- condicionais.csprojResolveAssemblyReference.cache
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\obj\Debug\7- condicionais.csproj.CoreCompileInputs.cache
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\obj\Debug\7- condicionais.exe
+C:\Users\devMaster\source\repos\AprendendoCSharp\7- condicionais\obj\Debug\7- condicionais.pdb
