@@ -1,0 +1,7 @@
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\bin\Debug\8-Condicionais.exe.config
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\bin\Debug\8-Condicionais.exe
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\bin\Debug\8-Condicionais.pdb
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\obj\Debug\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\obj\Debug\8-Condicionais.exe
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\obj\Debug\8-Condicionais.pdb
+C:\Users\devMaster\source\repos\AprendendoCSharp\8-Condicionais\obj\Debug\8-Condicionais2.csprojResolveAssemblyReference.cache
